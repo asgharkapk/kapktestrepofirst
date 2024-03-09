@@ -23,4 +23,4 @@
 12. [Queue Prompt]
 
 # How to train your own LoRa:
-1. google.com/search?client=opera-gx&q=how+to+train+lora+using+onetrainer
+1. https://google.com/search?client=opera-gx&q=how+to+train+lora+using+onetrainer
