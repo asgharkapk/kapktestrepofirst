@@ -1,6 +1,6 @@
 # How to create and generate Tower of Fantasy AI Hentai Arts (local stable diffusion on windows)
 01. Install Git: https://git-scm.com/download
-02. Install python (pip): https://www.python.org/downloads/
+02. Install python : https://www.python.org/downloads
    Make sure to [Add python.exe to PATH]
 03. Install Stability Matrix: https://lykos.ai
 04. Install Comfui Package in Stability Matrix (https://github.com/comfyanonymous/ComfyUI#installing :: for manual install)
