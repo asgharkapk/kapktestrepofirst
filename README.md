@@ -6,15 +6,15 @@
 04. Install Comfui Package in Stability Matrix (https://github.com/comfyanonymous/ComfyUI#installing :: for manual install)
 05. Install recommended nodes (extensions) for comfyui (ComfyUI-Manager + comfyui-crystools + comfyui-workspace-manager in Stability Matrix OR manual install in custom_nodes folder: ```git clone https://github.com/ltdrdata/ComfyUI-Manager.git && \ https://github.com/crystian/comfyui-crystools && \ git clone https://github.com/11cafe/comfyui-workspace-manager.git && \ git clone https://github.com/chrisgoringe/cg-image-picker.git && \ git clone https://github.com/rgthree/rgthree-comfy.git```)
 06. Install Models and LoRas from civit.ai (you can use built-in model manager in Stability Matrix or use civit.ai website with an account to be able to download NSFW LoRas) (https://civitai.com/search/models?sortBy=models_v6&query=Tower%20of%20Fantasy)
-07. Download Comfyui workflows { \n
-   https://comfyworkflows.com/workflows
-   https://rundiffusion.com/comfyui-workflows
-   https://comfyanonymous.github.io/ComfyUI_examples/
-   https://openart.ai/workflows/home?workflowSort=featured
-   https://github.com/comfyanonymous/ComfyUI_examples
-   https://github.com/wyrde/wyrde-comfyui-workflows
-   https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics
-   https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics/was-nodes-start
+07. Download Comfyui workflows { 
+   https://comfyworkflows.com/workflows \
+   https://rundiffusion.com/comfyui-workflows \
+   https://comfyanonymous.github.io/ComfyUI_examples \
+   https://openart.ai/workflows/home?workflowSort=featured \
+   https://github.com/comfyanonymous/ComfyUI_examples \
+   https://github.com/wyrde/wyrde-comfyui-workflows \
+   https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics \
+   https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics/was-nodes-start \
    https://github.com/atlasunified/Templates-ComfyUI- }
 08. Run/Launch Comfyui and open it
 09. Load the workflow (Basic Comfyui LoRa workflow: https://civitai.com/models/20443/comfyui-custom-workflows)
