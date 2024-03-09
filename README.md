@@ -21,3 +21,6 @@
     (Make sure to match Base model version and LoRa version together (1.0 / 1.5 / Pony / SDXL)
 11. open manager to [Install Missing Custom Nodes]
 12. [Queue Prompt]
+
+# How to train your own LoRa:
+1. google.com/search?client=opera-gx&q=how+to+train+lora+using+onetrainer
