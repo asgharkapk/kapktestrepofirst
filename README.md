@@ -21,10 +21,10 @@
     (Make sure to match Base model version and LoRa version together (1.0 / 1.5 / Pony / SDXL)
 11. open manager to [Install Missing Custom Nodes]
 12. [Queue Prompt]
-
+#
 # How to train your own LoRa:
 1. https://google.com/search?q=how+to+train+lora+using+onetrainer
-
+#
 # ComfyUI_installation_script.bat
 @ECHO ON
 ECHO Welcome to the installation script!
@@ -74,3 +74,4 @@ ECHO Step 9: Open the ComfyUI URL
 START "" "http://127.0.0.1:8188"
 
 CMD /k
+#
