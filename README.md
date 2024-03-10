@@ -16,7 +16,7 @@
    https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics \
    https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/basics/was-nodes-start \
    https://github.com/atlasunified/Templates-ComfyUI- }
-08. Run/Launch Comfyui and open it
+08. Run/Launch Comfyui and open it in browser
 09. Load the workflow (Basic Comfyui LoRa workflow: https://civitai.com/models/20443/comfyui-custom-workflows)
     (Make sure to match Base model version and LoRa version together (1.0 / 1.5 / Pony / SDXL)
 11. open manager to [Install Missing Custom Nodes]
