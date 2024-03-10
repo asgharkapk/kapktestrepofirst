@@ -3,7 +3,7 @@
 02. Install python : https://www.python.org/downloads \
    Make sure to [Add python.exe to PATH]
 03. Install Stability Matrix: https://lykos.ai
-04. Install Comfui Package in Stability Matrix (for manual install : https://github.com/comfyanonymous/ComfyUI#installing)
+04. Install Comfui Package in Stability Matrix (for manual install: https://github.com/comfyanonymous/ComfyUI#installing)
 05. Install recommended nodes (extensions) for comfyui (ComfyUI-Manager + comfyui-crystools + comfyui-workspace-manager in Stability Matrix OR manual install in ```custom_nodes``` folder: https://github.com/asgharkapk/kapktestrepofirst/blob/main/recommended_nodes.bat)
 06. Install Models and LoRas from civit.ai (you can use built-in model manager in Stability Matrix or use civit.ai website with an account to be able to download NSFW LoRas) (https://civitai.com/search/models?sortBy=models_v6&query=Tower%20of%20Fantasy)
 07. Download Comfyui workflows { \
