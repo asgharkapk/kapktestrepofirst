@@ -6,11 +6,19 @@ CD /D "%USERPROFILE%\Downloads"
 
 ECHO Step 2: Download and install Git
 START "" "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"
+ECHO Please press ENTER to install Git by following the installation wizard...
+PAUSE
+
+START "" "Git-2.44.0-64-bit.exe"
 ECHO Please install Git by following the installation wizard. Then press ENTER...
 PAUSE
 
 ECHO Step 3: Download and install Python
 START "" "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
+ECHO Please press ENTER to install Python and make sure to checkmark "Add python.exe to PATH."...
+PAUSE
+
+START "" "python-3.12.2-amd64.exe"
 ECHO Please install Python and make sure to checkmark "Add python.exe to PATH." Then press ENTER...
 PAUSE
 
