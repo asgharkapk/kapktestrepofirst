@@ -24,7 +24,7 @@
 #
 # YouTube Guides:
 1. Installing Stability Matrix: https://www.youtube.com/watch?v=gEwPGyWjK70
-2. 
+2. How to use LoRA in ComfyUI: https://www.youtube.com/watch?v=VFl1VFCrB5M
 #
 # How to train your own LoRa:
 1. https://google.com/search?q=how+to+train+lora+using+onetrainer
