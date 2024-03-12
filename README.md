@@ -20,7 +20,11 @@
 09. Load the workflow (Basic Comfyui LoRa workflow: https://civitai.com/models/20443/comfyui-custom-workflows)
     (Make sure to match Base model version and LoRa version together (1.0 / 1.5 / Pony / SDXL)
 11. open manager to [Install Missing Custom Nodes]
-12. [Queue Prompt]
+12. For first time dont change anything in workflow an just [Queue Prompt] to automatically download other workflow requirements that [Manager] didn't download.
+#
+# YouTube Guides:
+1. Installing Stability Matrix: https://www.youtube.com/watch?v=gEwPGyWjK70
+2. 
 #
 # How to train your own LoRa:
 1. https://google.com/search?q=how+to+train+lora+using+onetrainer
